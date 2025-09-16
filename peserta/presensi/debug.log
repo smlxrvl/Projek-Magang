@@ -1,0 +1,32 @@
+DEBUG Pulang: id=<br />
+<b>Warning</b>:  Undefined variable $id in <b>C:\xampp\htdocs\presensi-web\peserta\presensi\pulang.php</b> on line <b>81</b><br />
+, tanggal=2025-07-17, jam=16:15:53
+Query: UPDATE presensi SET tanggal_pulang = '2025-07-17', jam_pulang = '16:15:53', foto_pulang = 'pulang-20250717-161557.png' WHERE id = '<br />
+<b>Warning</b>:  Undefined variable $id in <b>C:\xampp\htdocs\presensi-web\peserta\presensi\pulang.php</b> on line <b>81</b><br />
+'
+Update berhasil
+DEBUG Pulang: id=<br />
+<b>Warning</b>:  Undefined variable $id in <b>C:\xampp\htdocs\presensi-web\peserta\presensi\pulang.php</b> on line <b>81</b><br />
+, tanggal=2025-07-18, jam=08:06:35
+Query: UPDATE presensi SET tanggal_pulang = '2025-07-18', jam_pulang = '08:06:35', foto_pulang = 'pulang-20250718-080639.png' WHERE id = '<br />
+<b>Warning</b>:  Undefined variable $id in <b>C:\xampp\htdocs\presensi-web\peserta\presensi\pulang.php</b> on line <b>81</b><br />
+'
+Update berhasil
+DEBUG Pulang: id=53, tanggal=2025-07-18, jam=08:13:34
+Query: UPDATE presensi SET tanggal_pulang = '2025-07-18', jam_pulang = '08:13:34', foto_pulang = 'pulang-20250718-081757.png' WHERE id = '53'
+Update berhasil
+DEBUG Pulang: id=54, tanggal=2025-07-18, jam=10:23:12
+Query: UPDATE presensi SET tanggal_pulang = '2025-07-18', jam_pulang = '10:23:12', foto_pulang = 'pulang-20250718-102317.png' WHERE id = '54'
+Update berhasil
+DEBUG Pulang: id=55, tanggal=2025-07-18, jam=10:31:54
+Query: UPDATE presensi SET tanggal_pulang = '2025-07-18', jam_pulang = '10:31:54', foto_pulang = 'pulang-20250718-103156.png' WHERE id = '55'
+Update berhasil
+DEBUG Pulang: id=59, tanggal=2025-07-21, jam=10:37:33
+Query: UPDATE presensi SET tanggal_pulang = '2025-07-21', jam_pulang = '10:37:33', foto_pulang = 'pulang-20250721-103736.png' WHERE id = '59'
+Update berhasil
+DEBUG Pulang: id=60, tanggal=2025-07-21, jam=10:52:29
+Query: UPDATE presensi SET tanggal_pulang = '2025-07-21', jam_pulang = '10:52:29', foto_pulang = 'pulang-20250721-105234.png' WHERE id = '60'
+Update berhasil
+DEBUG Pulang: id=61, tanggal=2025-09-15, jam=19:06:35
+Query: UPDATE presensi SET tanggal_pulang = '2025-09-15', jam_pulang = '19:06:35', foto_pulang = 'pulang-20250915-190649.png' WHERE id = '61'
+Update berhasil
