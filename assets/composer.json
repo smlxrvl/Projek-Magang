@@ -1,0 +1,13 @@
+{
+    "name": "smlxrvl/assets",
+    "type": "project",
+    "authors": [
+        {
+            "name": "smlxrvl",
+            "email": "samuelrm068@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^4.4"
+    }
+}
